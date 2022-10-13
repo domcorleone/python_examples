@@ -1,1 +1,5 @@
 print('Hello World...')
+print("Double Quotes")
+print('Concatena'+'tion')
+print('Hello', 'There')
+print('item'+5)
