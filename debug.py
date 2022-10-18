@@ -28,10 +28,10 @@ print('2')
     print('3')
 """
 
-# EOF error
+# EOF error | '(' was never closed
 #print('Hey there...how are you today'
 
-x = [1,20,45,8,96,12
+#x = [1,20,45,8,96,12
 
 
       
