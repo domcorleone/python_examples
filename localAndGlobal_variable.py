@@ -38,4 +38,5 @@ def example2():
 x = example2()
 
 print(x)
-    
+
+print("Good bye...")
