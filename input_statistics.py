@@ -46,3 +46,9 @@ print("The Mode is", statistics.mode(exList))
 """
 
 print("The Standard Deviation", statistics.stdev(exList))
+
+# 6. variance
+"""
+    https://www.w3schools.com/python/python_ml_standard_deviation.asp
+"""
+print("The variance", statistics.variance(exList))
